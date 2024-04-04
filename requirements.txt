@@ -1,0 +1,13 @@
+scipy
+numpy
+uvicorn
+tkinter
+docx2txt
+hashlib
+sentence_transformers
+PyPDF2
+tensorflow
+pickle
+shutil
+os
+
